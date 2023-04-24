@@ -70,4 +70,4 @@ advanced:
   debug: false
   date-language: "en"
   date-timezone: "-00:00"
-  ftp-file-separator: "/"
+  ftp-file-separator: ""
